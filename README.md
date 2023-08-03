@@ -1,6 +1,4 @@
-# machine-learning-for-solvent-recovery
-Machine learning assisted design of high-performance thin-film composite membranes for solvent recovery
-
+This is for the paper "Machine learning-assisted design of high-performance thin-film composite membranes for solvent recovery"
 Requirments:
 - scikit-learn              1.0.2  
 - python                    3.9.17 
